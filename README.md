@@ -2,6 +2,9 @@
     <h1> <img src="assets/marble.jpg" height=40 align="texttop">MARBLE</h1>
 </div>
 
+## Important!
+
+Now the official Code for MultiagentBench has been moved to [MARBLE](https://github.com/ulab-uiuc/MARBLE)
 
 **M**ulti-**A**gent Coo**R**dination **B**ackbone with **L**LM **E**ngine
 
